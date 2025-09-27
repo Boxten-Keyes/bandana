@@ -570,7 +570,7 @@ return {
 		old_twisted_ability = "rbxassetid://18832754587",
 		old_twisted_attacking = "rbxassetid://18833492685",
 		old_twisted_lostinterest = "rbxassetid://18832754587",
-		twisted_enragedwalk = "rbxassetid://18832891519",
+		twisted_enragedwalk = "rbxassetid://106872925454867",
 
 		idle = "rbxassetid://102101190927539",
 		walk = "rbxassetid://123057882391547",
@@ -581,12 +581,12 @@ return {
 		quirk2 = "rbxassetid://placeholder",
 		quirk3 = "rbxassetid://placeholder",
 
-		twisted_idle = "rbxassetid://placeholder",
-		twisted_walk = "rbxassetid://placeholder",
-		twisted_run = "rbxassetid://placeholder",
-		twisted_ability = "rbxassetid://placeholder",
-		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_idle = "rbxassetid://139032602395740",
+		twisted_walk = "rbxassetid://99163528213976",
+		twisted_run = "rbxassetid://121947942763776",
+		twisted_ability = "rbxassetid://72252889967512",
+		twisted_attacking = "rbxassetid://109837193619675",
+		twisted_lostinterest = "rbxassetid://73762238611008",
 	},
 	Goob = {
 		old_idle = "rbxassetid://17231779680",
