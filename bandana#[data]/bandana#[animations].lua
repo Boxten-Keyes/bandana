@@ -43,7 +43,7 @@ return {
 
 		idle = "rbxassetid://113260830809862",
 		walk = "rbxassetid://132205223700091",
-		run = "rbxassetid://10108152024909",
+		run = "rbxassetid://101081520249096",
 		extracting = "rbxassetid://119621623204298",
 		ability = "rbxassetid://placeholder",
 		quirk1 = "rbxassetid://131560581034341",
