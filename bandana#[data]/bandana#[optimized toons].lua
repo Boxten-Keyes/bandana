@@ -1,1 +1,1 @@
-return { "Blott", "Brusha", "Dyle", "Flyte", "Yatta", "Bassie", "Cocoa", "Eggson", "Bobette", "Brusha", "Coal", "Rudie", "Ginger", "Boxten", "Rudie", "Brightney", "Cosmo", "Connie", "Finn", "Flutter", "Gigi", "Glisten", "Goob", "Poppy", "RazzleDazzle", "Rodger", "Scraps", "Shrimpo", "Teagan", "Tisha", "Toodles", "Sprout", "Vee", "Dandy", "Shelly", "Pebble", "Astro", "Dandy", "Looey" }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxten-Keyes/bandana/refs/heads/main/bandana%23%5Bdata%5D/bandana%23%5Ball%20toons%5D.lua"))()
