@@ -891,12 +891,12 @@ return {
 		old_twisted_attacking = "rbxassetid://17593551844",
 		old_twisted_lostinterest = "rbxassetid://17593325631",
 
-		idle = "rbxassetid://placeholder",
-		walk = "rbxassetid://placeholder",
-		run = "rbxassetid://placeholder",
-		extracting = "rbxassetid://placeholder",
+		idle = "rbxassetid://104855983361844",
+		walk = "rbxassetid://83797003369894",
+		run = "rbxassetid://118408617438325",
+		extracting = "rbxassetid://82115028837237",
 		ability = "rbxassetid://placeholder",
-		quirk1 = "rbxassetid://placeholder",
+		quirk1 = "rbxassetid://118596195257950",
 		quirk2 = "rbxassetid://placeholder",
 		quirk3 = "rbxassetid://placeholder",
 
