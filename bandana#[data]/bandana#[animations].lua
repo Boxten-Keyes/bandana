@@ -150,7 +150,7 @@ return {
 		old_idle = "rbxassetid://17266012992",
 		old_walk = "rbxassetid://17267881920",
 		old_extracting = "rbxassetid://17268071696",
-		old_ability = "rbxassetid://placeholder",
+		old_ability = "rbxassetid://17295478127",
 
 		old_twisted_idle = "rbxassetid://17638507046",
 		old_twisted_walk = "rbxassetid://17638574879",
@@ -900,12 +900,12 @@ return {
 		quirk2 = "rbxassetid://placeholder",
 		quirk3 = "rbxassetid://placeholder",
 
-		twisted_idle = "rbxassetid://placeholder",
-		twisted_walk = "rbxassetid://placeholder",
-		twisted_run = "rbxassetid://placeholder",
+		twisted_idle = "rbxassetid://116481247301256",
+		twisted_walk = "rbxassetid://111132998582131",
+		twisted_run = "rbxassetid://99355157689749",
 		twisted_ability = "rbxassetid://placeholder",
-		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_attacking = "rbxassetid://85919717023303",
+		twisted_lostinterest = "rbxassetid://101562397422358",
 	},
 	Sprout = {
 		old_idle = "rbxassetid://18555568169",
