@@ -4,14 +4,14 @@ return {
 		old_walk = "rbxassetid://17477562502",
 		old_extracting = "rbxassetid://17485172105",
 		old_ability = "rbxassetid://17689526488",
-		
+
 		old_twisted_idle = "rbxassetid://17616899088",
 		old_twisted_walk = "rbxassetid://17617109508",
 		old_twisted_run = "rbxassetid://17617489384",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17617839395",
 		old_twisted_lostinterest = "rbxassetid://17618550418",
-		
+
 		idle = "rbxassetid://112602905752015",
 		walk = "rbxassetid://99830561123237",
 		run = "rbxassetid://75856022532736",
@@ -353,6 +353,8 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://101132930892437",
 		twisted_lostinterest = "rbxassetid://89607154649004",
+		
+		lobby_sit = "rbxassetid://122698084348337"
 	},
 	Dyle = {
 		old_idle = "rbxassetid://placeholder",
@@ -385,6 +387,42 @@ return {
 		twisted_slowspeed = "rbxassetid://92405825685826",
 		twisted_normalspeed = "rbxassetid://86153924241292",
 		twisted_fastspeed = "rbxassetid://87060532656442",
+	},
+	Eclipse = {
+		old_idle = "rbxassetid://placeholder",
+		old_walk = "rbxassetid://placeholder",
+		old_extracting = "rbxassetid://placeholder",
+		old_ability = "rbxassetid://placeholder",
+
+		old_twisted_idle = "rbxassetid://placeholder",
+		old_twisted_walk = "rbxassetid://placeholder",
+		old_twisted_run = "rbxassetid://placeholder",
+		old_twisted_ability = "rbxassetid://placeholder",
+		old_twisted_attacking = "rbxassetid://placeholder",
+		old_twisted_lostinterest = "rbxassetid://placeholder",
+
+		idle = "rbxassetid://101297586465019",
+		walk = "rbxassetid://80227782431048",
+		run = "rbxassetid://113933928349907",
+		extracting = "rbxassetid://119301286398499",
+		ability = "rbxassetid://73198786877309",
+		quirk1 = "rbxassetid://134729240113033",
+		quirk2 = "rbxassetid://placeholder",
+		quirk3 = "rbxassetid://placeholder",
+
+		twisted_idle = "rbxassetid://101719797746517",
+		twisted_walk = "rbxassetid://111415947717115",
+		twisted_run = "rbxassetid://111138216843634",
+		twisted_ability = "rbxassetid://77203626514357",
+		twisted_attacking = "rbxassetid://108473465812216",
+		twisted_lostinterest = "rbxassetid://110932578991747",
+		
+		werewolf_extracting = "rbxassetid://118927755912778",
+		werewolf_off = "rbxassetid://102315873839934",
+		werewolf_on = "rbxassetid://73198786877309",
+		werewolf_on_2 = "rbxassetid://136787270701306",
+		werewolf_on_3 = "rbxassetid://136787270701306",
+		werewolf_looped = "rbxassetid://83450956736616",
 	},
 	Eggson = {
 		old_idle = "rbxassetid://placeholder",
@@ -499,6 +537,42 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://71818321243756",
 		twisted_lostinterest = "rbxassetid://116589773251470",
+	},
+	Gourdy = {
+		old_idle = "rbxassetid://placeholder",
+		old_walk = "rbxassetid://placeholder",
+		old_extracting = "rbxassetid://placeholder",
+		old_ability = "rbxassetid://placeholder",
+
+		old_twisted_idle = "rbxassetid://placeholder",
+		old_twisted_walk = "rbxassetid://placeholder",
+		old_twisted_run = "rbxassetid://placeholder",
+		old_twisted_ability = "rbxassetid://placeholder",
+		old_twisted_attacking = "rbxassetid://placeholder",
+		old_twisted_lostinterest = "rbxassetid://placeholder",
+
+		idle = "rbxassetid://139969994295032",
+		walk = "rbxassetid://99465780231519",
+		run = "rbxassetid://72719917770090",
+		extracting = "rbxassetid://112117584626127",
+		ability = "rbxassetid://117040006124925",
+		quirk1 = "rbxassetid://99840317570192",
+		quirk2 = "rbxassetid://placeholder",
+		quirk3 = "rbxassetid://placeholder",
+
+		twisted_idle = "rbxassetid://114525665778913",
+		twisted_walk = "rbxassetid://73522200890405",
+		twisted_run = "rbxassetid://116670910565469",
+		twisted_ability = "rbxassetid://placeholder",
+		twisted_attacking = "rbxassetid://87439143871938",
+		twisted_lostinterest = "rbxassetid://106030369896751",
+		
+		grounded_angry = "rbxassetid://84135804828482",
+		grounded_angry_idle = "rbxassetid://119593501335783",
+		grounded_emerge = "rbxassetid://109553649381306",
+		grounded_happy = "rbxassetid://122423912238311",
+		grounded_idle = "rbxassetid://91883346043403",
+		lobby_sit = "rbxassetid://135321308070083"
 	},
 	Gigi = {
 		old_idle = "rbxassetid://131680997351874",
@@ -791,6 +865,35 @@ return {
 		twisted_attacking = "rbxassetid://placeholder",
 		twisted_lostinterest = "rbxassetid://placeholder",
 	},
+	Ribecca = {
+		old_idle = "rbxassetid://placeholder",
+		old_walk = "rbxassetid://placeholder",
+		old_extracting = "rbxassetid://placeholder",
+		old_ability = "rbxassetid://placeholder",
+
+		old_twisted_idle = "rbxassetid://placeholder",
+		old_twisted_walk = "rbxassetid://placeholder",
+		old_twisted_run = "rbxassetid://placeholder",
+		old_twisted_ability = "rbxassetid://placeholder",
+		old_twisted_attacking = "rbxassetid://placeholder",
+		old_twisted_lostinterest = "rbxassetid://placeholder",
+
+		idle = "rbxassetid://125992632625452",
+		walk = "rbxassetid://118986232555393",
+		run = "rbxassetid://106122176927729",
+		extracting = "rbxassetid://77346006959018",
+		ability = "rbxassetid://82114603220952",
+		quirk1 = "rbxassetid://132107930977833",
+		quirk2 = "rbxassetid://placeholder",
+		quirk3 = "rbxassetid://placeholder",
+
+		twisted_idle = "rbxassetid://84437851746964",
+		twisted_walk = "rbxassetid://130481155732477",
+		twisted_run = "rbxassetid://91775713305430",
+		twisted_ability = "rbxassetid://placeholder",
+		twisted_attacking = "rbxassetid://88021882835969",
+		twisted_lostinterest = "rbxassetid://103728669948918",
+	},
 	Rudie = {
 		old_idle = "rbxassetid://placeholder",
 		old_walk = "rbxassetid://placeholder",
@@ -848,6 +951,35 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
 		twisted_lostinterest = "rbxassetid://placeholder",
+	},
+	Soulvester = {
+		old_idle = "rbxassetid://placeholder",
+		old_walk = "rbxassetid://placeholder",
+		old_extracting = "rbxassetid://placeholder",
+		old_ability = "rbxassetid://placeholder",
+
+		old_twisted_idle = "rbxassetid://placeholder",
+		old_twisted_walk = "rbxassetid://placeholder",
+		old_twisted_run = "rbxassetid://placeholder",
+		old_twisted_ability = "rbxassetid://placeholder",
+		old_twisted_attacking = "rbxassetid://placeholder",
+		old_twisted_lostinterest = "rbxassetid://placeholder",
+
+		idle = "rbxassetid://87619555490099",
+		walk = "rbxassetid://70520238008961",
+		run = "rbxassetid://133253678576937",
+		extracting = "rbxassetid://109213385520053",
+		ability = "rbxassetid://placeholder",
+		quirk1 = "rbxassetid://89104814329436",
+		quirk2 = "rbxassetid://placeholder",
+		quirk3 = "rbxassetid://placeholder",
+
+		twisted_idle = "rbxassetid://71954249296679",
+		twisted_walk = "rbxassetid://124588738513012",
+		twisted_run = "rbxassetid://79814961469926",
+		twisted_ability = "rbxassetid://placeholder",
+		twisted_attacking = "rbxassetid://119816191964033",
+		twisted_lostinterest = "rbxassetid://124357795496043",
 	},
 	Shelly = {
 		old_idle = "rbxassetid://18199284470",
