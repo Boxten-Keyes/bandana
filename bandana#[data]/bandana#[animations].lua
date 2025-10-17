@@ -1,3 +1,4 @@
+-- hey alexa whats the best way to annoy a wannabe gangster classmate
 return {
 	Astro = {
 		old_idle = "rbxassetid://17477484184",
