@@ -1,4 +1,3 @@
--- hey alexa whats the best way to annoy a wannabe gangster classmate
 return {
 	Astro = {
 		old_idle = "rbxassetid://17477484184",
@@ -134,7 +133,7 @@ return {
 		idle = "rbxassetid://95727319423093",
 		walk = "rbxassetid://123141912082344",
 		run = "rbxassetid://123088431322768",
-		extracting = "rbxassetid://73586337053820",
+		extracting = "rbxassetid://107107862171236",
 		ability = "rbxassetid://placeholder",
 		quirk1 = "rbxassetid://109390279112826",
 		quirk2 = "rbxassetid://placeholder",
@@ -146,6 +145,8 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://95375900370480",
 		twisted_lostinterest = "rbxassetid://89715408307054",
+
+		old_optimized_extracting = "rbxassetid://73586337053820"
 	},
 	Brightney = {
 		old_idle = "rbxassetid://17266012992",
