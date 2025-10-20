@@ -11,7 +11,7 @@ return {
 		old_twisted_run = "rbxassetid://17617489384",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17617839395",
-		old_twisted_lostinterest = "rbxassetid://17618550418",
+		old_twisted_lost_interest = "rbxassetid://17618550418",
 
 		idle = "rbxassetid://112602905752015",
 		walk = "rbxassetid://99830561123237",
@@ -27,7 +27,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Bassie = {
 		old_idle = "rbxassetid://placeholder",
@@ -40,7 +40,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://113260830809862",
 		walk = "rbxassetid://132205223700091",
@@ -56,7 +56,7 @@ return {
 		twisted_run = "rbxassetid://80250651929564",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://86896889708382",
-		twisted_lostinterest = "rbxassetid://139011044166224",
+		twisted_lost_interest = "rbxassetid://139011044166224",
 
 		store_sit = "rbxassetid://75597599641198"
 	},
@@ -71,7 +71,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://73993990162132",
 		walk = "rbxassetid://76703698283994",
@@ -87,7 +87,7 @@ return {
 		twisted_run = "rbxassetid://102718775893345",
 		twisted_ability = "rbxassetid://136213222759279",
 		twisted_attacking = "rbxassetid://86596451974030",
-		twisted_lostinterest = "rbxassetid://113443913568233",
+		twisted_lost_interest = "rbxassetid://113443913568233",
 
 		dismiss_hands = "rbxassetid://99140355940646",
 		twisted_quirk = "rbxassetid://90821930666498",
@@ -103,7 +103,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://121960921916341",
 		walk = "rbxassetid://108971895466704",
@@ -119,7 +119,7 @@ return {
 		twisted_run = "rbxassetid://124902427828033",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://110457418675287",
-		twisted_lostinterest = "rbxassetid://139014858392831",
+		twisted_lost_interest = "rbxassetid://139014858392831",
 	},
 	Boxten = {
 		old_idle = "rbxassetid://16987798588",
@@ -132,7 +132,7 @@ return {
 		old_twisted_run = "rbxassetid://17174260770",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17175061517",
-		old_twisted_lostinterest = "rbxassetid://17175121863",
+		old_twisted_lost_interest = "rbxassetid://17175121863",
 
 		idle = "rbxassetid://95727319423093",
 		walk = "rbxassetid://123141912082344",
@@ -148,7 +148,7 @@ return {
 		twisted_run = "rbxassetid://76555864904864",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://95375900370480",
-		twisted_lostinterest = "rbxassetid://89715408307054",
+		twisted_lost_interest = "rbxassetid://89715408307054",
 
 		old_optimized_extracting = "rbxassetid://73586337053820"
 	},
@@ -163,7 +163,7 @@ return {
 		old_twisted_run = "rbxassetid://17638734882",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17638948604",
-		old_twisted_lostinterest = "rbxassetid://17638984774",
+		old_twisted_lost_interest = "rbxassetid://17638984774",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -179,7 +179,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Brusha = {
 		old_idle = "rbxassetid://placeholder",
@@ -192,7 +192,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://120995305446330",
 		walk = "rbxassetid://88042548060423",
@@ -208,7 +208,7 @@ return {
 		twisted_run = "rbxassetid://95016300494521",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://136331754033175",
-		twisted_lostinterest = "rbxassetid://138555477963908",
+		twisted_lost_interest = "rbxassetid://138555477963908",
 
 		pull_out_canvas = "rbsassetid://97174260659481",
 		put_away_canvas = "rbsassetid://129092207051880",
@@ -224,7 +224,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://131700177149552",
 		walk = "rbxassetid://116657137600663",
@@ -240,7 +240,7 @@ return {
 		twisted_run = "rbxassetid://88133391461421",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://90067465470355",
-		twisted_lostinterest = "rbxassetid://130429201619542",
+		twisted_lost_interest = "rbxassetid://130429201619542",
 	},
 	Cocoa = {
 		old_idle = "rbxassetid://placeholder",
@@ -253,7 +253,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://128300795612869",
 		walk = "rbxassetid://113856775888112",
@@ -269,7 +269,7 @@ return {
 		twisted_run = "rbxassetid://77242325839730",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://103678252903225",
-		twisted_lostinterest = "rbxassetid://70835462817471",
+		twisted_lost_interest = "rbxassetid://70835462817471",
 	},
 	Connie = {
 		old_idle = "rbxassetid://placeholder",
@@ -282,7 +282,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://96412679901902",
 		walk = "rbxassetid://71819089910283",
@@ -298,7 +298,7 @@ return {
 		twisted_run = "rbxassetid://81505996760447",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://123465626752220",
-		twisted_lostinterest = "rbxassetid://88637009290048",
+		twisted_lost_interest = "rbxassetid://88637009290048",
 	},
 	Cosmo = {
 		old_idle = "rbxassetid://18608700264",
@@ -311,7 +311,7 @@ return {
 		old_twisted_run = "rbxassetid://18682530957",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://18682899615",
-		old_twisted_lostinterest = "rbxassetid://18683187890",
+		old_twisted_lost_interest = "rbxassetid://18683187890",
 
 		idle = "rbxassetid://97099524343316",
 		walk = "rbxassetid://95597558305842",
@@ -327,7 +327,7 @@ return {
 		twisted_run = "rbxassetid://107284633129144",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://131601332654193",
-		twisted_lostinterest = "rbxassetid://75955446097347",
+		twisted_lost_interest = "rbxassetid://75955446097347",
 	},
 	Dandy = {
 		old_idle = "rbxassetid://16496520991",
@@ -340,7 +340,7 @@ return {
 		old_twisted_run = "rbxassetid://17516071317",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17516342266",
-		old_twisted_lostinterest = "rbxassetid://17516850409",
+		old_twisted_lost_interest = "rbxassetid://17516850409",
 
 		idle = "rbxassetid://88005353573809",
 		walk = "rbxassetid://74214760501035",
@@ -354,7 +354,7 @@ return {
 		twisted_run = "rbxassetid://78926641657944",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://101132930892437",
-		twisted_lostinterest = "rbxassetid://89607154649004",
+		twisted_lost_interest = "rbxassetid://89607154649004",
 
 		store_sit = "rbxassetid://122698084348337",
 		bought_from_store = "rbxassetid://132632063439293",
@@ -374,7 +374,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://77638301662090",
 		walk = "rbxassetid://112567884647580",
@@ -390,7 +390,7 @@ return {
 		twisted_run = "rbxassetid://103691735003760",
 		twisted_ability = "rbxassetid://77216203934263",
 		twisted_attacking = "rbxassetid://77216203934263",
-		twisted_lostinterest = "rbxassetid://112193361748129",
+		twisted_lost_interest = "rbxassetid://112193361748129",
 
 		twisted_slow_speed = "rbxassetid://92405825685826",
 		twisted_normal_speed = "rbxassetid://86153924241292",
@@ -407,7 +407,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://101297586465019",
 		walk = "rbxassetid://80227782431048",
@@ -423,7 +423,7 @@ return {
 		twisted_run = "rbxassetid://111138216843634",
 		twisted_ability = "rbxassetid://77203626514357",
 		twisted_attacking = "rbxassetid://108473465812216",
-		twisted_lostinterest = "rbxassetid://110932578991747",
+		twisted_lost_interest = "rbxassetid://110932578991747",
 
 		werewolf_extracting = "rbxassetid://118927755912778",
 		werewolf_untransform = "rbxassetid://102315873839934",
@@ -442,7 +442,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://129628437580538",
 		walk = "rbxassetid://74613594041941",
@@ -458,7 +458,7 @@ return {
 		twisted_run = "rbxassetid://134803511177431",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://129440980737755",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Finn = {
 		old_idle = "rbxassetid://18717443931",
@@ -471,7 +471,7 @@ return {
 		old_twisted_run = "rbxassetid://18741061111",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://18741179470",
-		old_twisted_lostinterest = "rbxassetid://18741375723",
+		old_twisted_lost_interest = "rbxassetid://18741375723",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -487,7 +487,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Flutter = {
 		old_idle = "rbxassetid://18226198149",
@@ -514,7 +514,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Flyte = {
 		old_idle = "rbxassetid://placeholder",
@@ -527,7 +527,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://71907669576411",
 		walk = "rbxassetid://132121208809384",
@@ -543,7 +543,7 @@ return {
 		twisted_run = "rbxassetid://105764212938666",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://71818321243756",
-		twisted_lostinterest = "rbxassetid://116589773251470",
+		twisted_lost_interest = "rbxassetid://116589773251470",
 	},
 	Gourdy = {
 		old_idle = "rbxassetid://placeholder",
@@ -556,7 +556,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://139969994295032",
 		walk = "rbxassetid://99465780231519",
@@ -572,7 +572,7 @@ return {
 		twisted_run = "rbxassetid://116670910565469",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://87439143871938",
-		twisted_lostinterest = "rbxassetid://106030369896751",
+		twisted_lost_interest = "rbxassetid://106030369896751",
 
 		grounded_angry = "rbxassetid://84135804828482",
 		grounded_angry_idle = "rbxassetid://119593501335783",
@@ -592,7 +592,7 @@ return {
 		old_twisted_run = "rbxassetid://124691439016513",
 		old_twisted_ability = "rbxassetid://117288063871109",
 		old_twisted_attacking = "rbxassetid://78176529258045",
-		old_twisted_lostinterest = "rbxassetid://100740100725919",
+		old_twisted_lost_interest = "rbxassetid://100740100725919",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -608,7 +608,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Ginger = {
 		old_idle = "rbxassetid://placeholder",
@@ -621,7 +621,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://85220873784968",
 		walk = "rbxassetid://79443874564334",
@@ -637,7 +637,7 @@ return {
 		twisted_run = "rbxassetid://75137556095690",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://137520427453859",
-		twisted_lostinterest = "rbxassetid://131331420784709",
+		twisted_lost_interest = "rbxassetid://131331420784709",
 	},
 	Glisten = {
 		old_idle = "rbxassetid://18789173875",
@@ -650,7 +650,7 @@ return {
 		old_twisted_run = "rbxassetid://18833020404",
 		old_twisted_ability = "rbxassetid://18832754587",
 		old_twisted_attacking = "rbxassetid://18833492685",
-		old_twisted_lostinterest = "rbxassetid://18832754587",
+		old_twisted_lost_interest = "rbxassetid://18832754587",
 
 		idle = "rbxassetid://102101190927539",
 		walk = "rbxassetid://123057882391547",
@@ -666,7 +666,7 @@ return {
 		twisted_run = "rbxassetid://121947942763776",
 		twisted_ability = "rbxassetid://72252889967512",
 		twisted_attacking = "rbxassetid://109837193619675",
-		twisted_lostinterest = "rbxassetid://73762238611008",
+		twisted_lost_interest = "rbxassetid://73762238611008",
 
 		twisted_enraged_movement = "rbxassetid://106872925454867",
 	},
@@ -681,7 +681,7 @@ return {
 		old_twisted_run = "rbxassetid://17270072413",
 		old_twisted_ability = "rbxassetid://18989147764",
 		old_twisted_attacking = "rbxassetid://17274720649",
-		old_twisted_lostinterest = "rbxassetid://17274804726",
+		old_twisted_lost_interest = "rbxassetid://17274804726",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -697,7 +697,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Looey = {
 		old_idle = "rbxassetid://placeholder",
@@ -710,7 +710,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://78197156369403",
 		walk = "rbxassetid://124245470232056",
@@ -726,7 +726,7 @@ return {
 		twisted_run = "rbxassetid://131136472849981",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://110454030222904",
-		twisted_lostinterest = "rbxassetid://101633908025346",
+		twisted_lost_interest = "rbxassetid://101633908025346",
 	},
 	Pebble = {
 		old_idle = "rbxassetid://placeholder",
@@ -739,7 +739,7 @@ return {
 		old_twisted_run = "rbxassetid://14640401802",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://94925084807494",
 		walk = "rbxassetid://108621188713265",
@@ -755,7 +755,7 @@ return {
 		twisted_run = "rbxassetid://108053760580353",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://92392240437202",
-		twisted_lostinterest = "rbxassetid://131291463687727",
+		twisted_lost_interest = "rbxassetid://131291463687727",
 	},
 	Poppy = {
 		old_idle = "rbxassetid://16205089554",
@@ -768,7 +768,7 @@ return {
 		old_twisted_run = "rbxassetid://17000654428",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17001855587",
-		old_twisted_lostinterest = "rbxassetid://17010929179",
+		old_twisted_lost_interest = "rbxassetid://17010929179",
 
 		idle = "rbxassetid://104172965206178",
 		walk = "rbxassetid://94095022971268",
@@ -784,7 +784,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Razzle = {
 		old_idle = "rbxassetid://17450844457",
@@ -797,7 +797,7 @@ return {
 		old_twisted_run = "rbxassetid://18987897664",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://123101626847955",
 		walk = "rbxassetid://139284449676655",
@@ -813,7 +813,7 @@ return {
 		twisted_run = "rbxassetid://105388242822572",
 		twisted_ability = "rbxassetid://75665313695744",
 		twisted_attacking = "rbxassetid://115004983183813",
-		twisted_lostinterest = "rbxassetid://127985997430283",
+		twisted_lost_interest = "rbxassetid://127985997430283",
 	},
 	Dazzle = {
 		old_idle = "rbxassetid://17450844457",
@@ -826,7 +826,7 @@ return {
 		old_twisted_run = "rbxassetid://18987897664",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://123101626847955",
 		walk = "rbxassetid://109753602785063",
@@ -842,7 +842,7 @@ return {
 		twisted_run = "rbxassetid://105388242822572",
 		twisted_ability = "rbxassetid://75665313695744",
 		twisted_attacking = "rbxassetid://115004983183813",
-		twisted_lostinterest = "rbxassetid://127985997430283",
+		twisted_lost_interest = "rbxassetid://127985997430283",
 	},
 	Rodger = {
 		old_idle = "rbxassetid://17097874814",
@@ -855,7 +855,7 @@ return {
 		old_twisted_run = "rbxassetid://18988830155",
 		old_twisted_ability = "rbxassetid://17106882550",
 		old_twisted_attacking = "rbxassetid://17163053135",
-		old_twisted_lostinterest = "rbxassetid://17163513844",
+		old_twisted_lost_interest = "rbxassetid://17163513844",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -871,7 +871,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Ribecca = {
 		old_idle = "rbxassetid://placeholder",
@@ -884,7 +884,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://125992632625452",
 		walk = "rbxassetid://118986232555393",
@@ -900,7 +900,7 @@ return {
 		twisted_run = "rbxassetid://91775713305430",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://88021882835969",
-		twisted_lostinterest = "rbxassetid://103728669948918",
+		twisted_lost_interest = "rbxassetid://103728669948918",
 	},
 	Rudie = {
 		old_idle = "rbxassetid://placeholder",
@@ -913,7 +913,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://80667484406688",
 		walk = "rbxassetid://89752421989409",
@@ -929,7 +929,7 @@ return {
 		twisted_run = "rbxassetid://137822127469681",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://100664979016648",
-		twisted_lostinterest = "rbxassetid://102004443378644",
+		twisted_lost_interest = "rbxassetid://102004443378644",
 	},
 	Scraps = {
 		old_idle = "rbxassetid://17553394893",
@@ -942,7 +942,7 @@ return {
 		old_twisted_run = "rbxassetid://17574064271",
 		old_twisted_ability = "rbxassetid://18989193580",
 		old_twisted_attacking = "rbxassetid://17579004043",
-		old_twisted_lostinterest = "rbxassetid://17579066136",
+		old_twisted_lost_interest = "rbxassetid://17579066136",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -958,7 +958,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Soulvester = {
 		old_idle = "rbxassetid://placeholder",
@@ -971,7 +971,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://87619555490099",
 		walk = "rbxassetid://70520238008961",
@@ -987,7 +987,7 @@ return {
 		twisted_run = "rbxassetid://79814961469926",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://119816191964033",
-		twisted_lostinterest = "rbxassetid://124357795496043",
+		twisted_lost_interest = "rbxassetid://124357795496043",
 	},
 	Shelly = {
 		old_idle = "rbxassetid://18199284470",
@@ -1000,7 +1000,7 @@ return {
 		old_twisted_run = "rbxassetid://18213671382",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://18213946209",
-		old_twisted_lostinterest = "rbxassetid://18214498596",
+		old_twisted_lost_interest = "rbxassetid://18214498596",
 
 		idle = "rbxassetid://81739221582887",
 		walk = "rbxassetid://97569421338492",
@@ -1016,7 +1016,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Shrimpo = {
 		old_idle = "rbxassetid://17561045485",
@@ -1029,7 +1029,7 @@ return {
 		old_twisted_run = "rbxassetid://17592396609",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17593551844",
-		old_twisted_lostinterest = "rbxassetid://17593325631",
+		old_twisted_lost_interest = "rbxassetid://17593325631",
 
 		idle = "rbxassetid://104855983361844",
 		walk = "rbxassetid://83797003369894",
@@ -1045,7 +1045,7 @@ return {
 		twisted_run = "rbxassetid://99355157689749",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://85919717023303",
-		twisted_lostinterest = "rbxassetid://101562397422358",
+		twisted_lost_interest = "rbxassetid://101562397422358",
 	},
 	Sprout = {
 		old_idle = "rbxassetid://18555568169",
@@ -1058,7 +1058,7 @@ return {
 		old_twisted_run = "rbxassetid://18699674490",
 		old_twisted_ability = "rbxassetid://18699836509",
 		old_twisted_attacking = "rbxassetid://18701507818",
-		old_twisted_lostinterest = "rbxassetid://18701532481",
+		old_twisted_lost_interest = "rbxassetid://18701532481",
 
 		idle = "rbxassetid://115089547773515",
 		walk = "rbxassetid://71337605453012",
@@ -1074,7 +1074,7 @@ return {
 		twisted_run = "rbxassetid://126212244949811",
 		twisted_ability = "rbxassetid://112281460011580",
 		twisted_attacking = "rbxassetid://128710825378720",
-		twisted_lostinterest = "rbxassetid://100966930839128",
+		twisted_lost_interest = "rbxassetid://100966930839128",
 	},
 	Teagan = {
 		old_idle = "rbxassetid://18183602038",
@@ -1087,7 +1087,7 @@ return {
 		old_twisted_run = "rbxassetid://18197017631",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17001855587",
-		old_twisted_lostinterest = "rbxassetid://17010929179",
+		old_twisted_lost_interest = "rbxassetid://17010929179",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -1103,7 +1103,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Tisha = {
 		old_idle = "rbxassetid://18152665882",
@@ -1116,7 +1116,7 @@ return {
 		old_twisted_run = "rbxassetid://18167378530",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://18167623883",
-		old_twisted_lostinterest = "rbxassetid://18169672754",
+		old_twisted_lost_interest = "rbxassetid://18169672754",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -1132,7 +1132,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Toodles = {
 		old_idle = "rbxassetid://17504197216",
@@ -1145,7 +1145,7 @@ return {
 		old_twisted_run = "rbxassetid://91029796934547",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://17649553233",
-		old_twisted_lostinterest = "rbxassetid://17649641540",
+		old_twisted_lost_interest = "rbxassetid://17649641540",
 
 		idle = "rbxassetid://placeholder",
 		walk = "rbxassetid://placeholder",
@@ -1161,7 +1161,7 @@ return {
 		twisted_run = "rbxassetid://placeholder",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://placeholder",
-		twisted_lostinterest = "rbxassetid://placeholder",
+		twisted_lost_interest = "rbxassetid://placeholder",
 	},
 	Vee = {
 		old_idle = "rbxassetid://17293962722",
@@ -1174,7 +1174,7 @@ return {
 		old_twisted_run = "rbxassetid://17322657144",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://87154718270671",
 		walk = "rbxassetid://97897738117999",
@@ -1190,7 +1190,7 @@ return {
 		twisted_run = "rbxassetid://73725947198210",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://122320701385700",
-		twisted_lostinterest = "rbxassetid://123014360614322",
+		twisted_lost_interest = "rbxassetid://123014360614322",
 	},
 	Yatta = {
 		old_idle = "rbxassetid://placeholder",
@@ -1203,7 +1203,7 @@ return {
 		old_twisted_run = "rbxassetid://placeholder",
 		old_twisted_ability = "rbxassetid://placeholder",
 		old_twisted_attacking = "rbxassetid://placeholder",
-		old_twisted_lostinterest = "rbxassetid://placeholder",
+		old_twisted_lost_interest = "rbxassetid://placeholder",
 
 		idle = "rbxassetid://94672939370149",
 		walk = "rbxassetid://113493276030799",
@@ -1219,6 +1219,6 @@ return {
 		twisted_run = "rbxassetid://104220653814120",
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://97409614067549",
-		twisted_lostinterest = "rbxassetid://136414501780962",
+		twisted_lost_interest = "rbxassetid://136414501780962",
 	},
 }
