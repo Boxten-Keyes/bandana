@@ -57,6 +57,8 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://86896889708382",
 		twisted_lostinterest = "rbxassetid://139011044166224",
+
+		store_sit = "rbxassetid://75597599641198"
 	},
 	Blot = {
 		old_idle = "rbxassetid://placeholder",
@@ -389,9 +391,10 @@ return {
 		twisted_ability = "rbxassetid://77216203934263",
 		twisted_attacking = "rbxassetid://77216203934263",
 		twisted_lostinterest = "rbxassetid://112193361748129",
-		twisted_slowspeed = "rbxassetid://92405825685826",
-		twisted_normalspeed = "rbxassetid://86153924241292",
-		twisted_fastspeed = "rbxassetid://87060532656442",
+
+		twisted_slow_speed = "rbxassetid://92405825685826",
+		twisted_normal_speed = "rbxassetid://86153924241292",
+		twisted_fast_speed = "rbxassetid://87060532656442",
 	},
 	Eclipse = {
 		old_idle = "rbxassetid://placeholder",
@@ -423,11 +426,10 @@ return {
 		twisted_lostinterest = "rbxassetid://110932578991747",
 		
 		werewolf_extracting = "rbxassetid://118927755912778",
-		werewolf_off = "rbxassetid://102315873839934",
-		werewolf_on = "rbxassetid://73198786877309",
-		werewolf_on_2 = "rbxassetid://136787270701306",
-		werewolf_on_3 = "rbxassetid://136787270701306",
-		werewolf_looped = "rbxassetid://83450956736616",
+		werewolf_untransform = "rbxassetid://102315873839934",
+		werewolf_transform = "rbxassetid://73198786877309",
+		werewolf_transform_2 = "rbxassetid://136787270701306",
+		werewolf_transform_3 = "rbxassetid://83450956736616",
 	},
 	Eggson = {
 		old_idle = "rbxassetid://placeholder",
@@ -649,7 +651,6 @@ return {
 		old_twisted_ability = "rbxassetid://18832754587",
 		old_twisted_attacking = "rbxassetid://18833492685",
 		old_twisted_lostinterest = "rbxassetid://18832754587",
-		twisted_enragedwalk = "rbxassetid://106872925454867",
 
 		idle = "rbxassetid://102101190927539",
 		walk = "rbxassetid://123057882391547",
@@ -666,6 +667,8 @@ return {
 		twisted_ability = "rbxassetid://72252889967512",
 		twisted_attacking = "rbxassetid://109837193619675",
 		twisted_lostinterest = "rbxassetid://73762238611008",
+
+		twisted_enraged_moving = "rbxassetid://106872925454867",
 	},
 	Goob = {
 		old_idle = "rbxassetid://17231779680",
