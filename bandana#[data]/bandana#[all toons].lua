@@ -1,7 +1,7 @@
 return {
   "Astro", 
   "Bassie", 
-  "Blott", 
+  "Blott", -- AKA Blot
   "Bobette", 
   "Boxten", 
   "Brusha", 
@@ -26,7 +26,7 @@ return {
   "Gourdy", 
   "Pebble", 
   "Poppy", 
-  "RazzleDazzle", 
+  "RazzleDazzle", -- AKA Razzle & Dazzle
   "Ribecca", 
   "Rodger", 
   "Rudie", 
