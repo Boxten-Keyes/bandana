@@ -668,7 +668,7 @@ return {
 		twisted_attacking = "rbxassetid://109837193619675",
 		twisted_lostinterest = "rbxassetid://73762238611008",
 
-		twisted_enraged_moving = "rbxassetid://106872925454867",
+		twisted_enraged_movement = "rbxassetid://106872925454867",
 	},
 	Goob = {
 		old_idle = "rbxassetid://17231779680",
