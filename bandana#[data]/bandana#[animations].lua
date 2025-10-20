@@ -355,8 +355,8 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://101132930892437",
 		twisted_lostinterest = "rbxassetid://89607154649004",
-		
-		store_sit = "rbxassetid://122698084348337"
+
+		store_sit = "rbxassetid://122698084348337",
 		bought_from_store = "rbxassetid://132632063439293",
 		bought_from_store_2 = "rbsassetid://122017642044208",
 		gossipping = "rbxassetid://114972299511770",
@@ -424,7 +424,7 @@ return {
 		twisted_ability = "rbxassetid://77203626514357",
 		twisted_attacking = "rbxassetid://108473465812216",
 		twisted_lostinterest = "rbxassetid://110932578991747",
-		
+
 		werewolf_extracting = "rbxassetid://118927755912778",
 		werewolf_untransform = "rbxassetid://102315873839934",
 		werewolf_transform = "rbxassetid://73198786877309",
@@ -573,7 +573,7 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://87439143871938",
 		twisted_lostinterest = "rbxassetid://106030369896751",
-		
+
 		grounded_angry = "rbxassetid://84135804828482",
 		grounded_angry_idle = "rbxassetid://119593501335783",
 		grounded_emerge = "rbxassetid://109553649381306",
