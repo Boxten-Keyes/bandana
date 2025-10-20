@@ -1,3 +1,4 @@
+-- old = unoptimized
 return {
 	Astro = {
 		old_idle = "rbxassetid://17477484184",
@@ -85,8 +86,9 @@ return {
 		twisted_ability = "rbxassetid://136213222759279",
 		twisted_attacking = "rbxassetid://86596451974030",
 		twisted_lostinterest = "rbxassetid://113443913568233",
-		nohands = "rbxassetid://99140355940646",
-		twistedquirk = "rbxassetid://90821930666498",
+
+		dismiss_hands = "rbxassetid://99140355940646",
+		twisted_quirk = "rbxassetid://90821930666498",
 	},
 	Bobette = {
 		old_idle = "rbxassetid://placeholder",
@@ -198,8 +200,6 @@ return {
 		quirk1 = "rbxassetid://140672190679079",
 		quirk2 = "rbxassetid://placeholder",
 		quirk3 = "rbxassetid://placeholder",
-		pulloutcanvas = "rbsassetid://97174260659481",
-		putawaycanvas = "rbsassetid://129092207051880",
 
 		twisted_idle = "rbxassetid://122123246629207",
 		twisted_walk = "rbxassetid://99268483331258",
@@ -207,6 +207,9 @@ return {
 		twisted_ability = "rbxassetid://placeholder",
 		twisted_attacking = "rbxassetid://136331754033175",
 		twisted_lostinterest = "rbxassetid://138555477963908",
+
+		pull_out_canvas = "rbsassetid://97174260659481",
+		put_away_canvas = "rbsassetid://129092207051880",
 	},
 	Coal = {
 		old_idle = "rbxassetid://placeholder",
@@ -343,11 +346,6 @@ return {
 		extracting = "rbxassetid://71589450143013",
 		ability = "rbxassetid://placeholder",
 		quirk1 = "rbxassetid://116488437568451",
-		storebought = "rbxassetid://132632063439293",
-		gossipsit = "rbxassetid://114972299511770",
-		armsoutspeak = "rbsassetid://122017642044208",
-		pullingshoplever = "rbxassetid://138207618683117",
-		pullingshoplever2 = "rbxassetid://112826066093514",
 
 		twisted_idle = "rbxassetid://93574478063660",
 		twisted_walk = "rbxassetid://137994906463591",
@@ -356,7 +354,12 @@ return {
 		twisted_attacking = "rbxassetid://101132930892437",
 		twisted_lostinterest = "rbxassetid://89607154649004",
 		
-		lobby_sit = "rbxassetid://122698084348337"
+		store_sit = "rbxassetid://122698084348337"
+		bought_from_store = "rbxassetid://132632063439293",
+		bought_from_store_2 = "rbsassetid://122017642044208",
+		gossipping = "rbxassetid://114972299511770",
+		pulling_shop_lever = "rbxassetid://138207618683117",
+		pulling_shop_lever_2 = "rbxassetid://112826066093514",
 	},
 	Dyle = {
 		old_idle = "rbxassetid://placeholder",
@@ -574,7 +577,7 @@ return {
 		grounded_emerge = "rbxassetid://109553649381306",
 		grounded_happy = "rbxassetid://122423912238311",
 		grounded_idle = "rbxassetid://91883346043403",
-		lobby_sit = "rbxassetid://135321308070083"
+		store_sit = "rbxassetid://135321308070083"
 	},
 	Gigi = {
 		old_idle = "rbxassetid://131680997351874",
