@@ -579,7 +579,9 @@ return {
 		grounded_emerge = "rbxassetid://109553649381306",
 		grounded_happy = "rbxassetid://122423912238311",
 		grounded_idle = "rbxassetid://91883346043403",
-		store_sit = "rbxassetid://135321308070083"
+		store_sit = "rbxassetid://135321308070083",
+		gossipping = "rbxassetid://107921893312007",
+		bought_from_store = "rbxassetid://131246335148028",
 	},
 	Gigi = {
 		old_idle = "rbxassetid://131680997351874",
