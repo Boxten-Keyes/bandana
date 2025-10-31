@@ -8,5 +8,4 @@ return {
   "Scraps", 
   "Teagan", 
   "Tisha", 
-  "Toodles" 
 }
