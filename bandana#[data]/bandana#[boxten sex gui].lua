@@ -1646,7 +1646,7 @@ return {
 		},
 		D = {
 			"The command prefix is \".\"!",
-			"This script has over 31K lines!",
+			"This script has over 29K lines!",
 			"Click on a command and i can tell you what it does!",
 			"Hehe, Hi! Im Poppy! I was added in version 1.0.4 alongside this whole section!",
 			"Found a bug? Report it in Main/Feedback or talk about it in our Discord server!",
