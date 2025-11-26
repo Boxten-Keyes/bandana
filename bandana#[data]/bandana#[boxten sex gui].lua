@@ -45,14 +45,8 @@ return {
 	},
 	unoptimized = { 
 		"Brightney",
-		"Finn", 
-		"Flutter", 
-		"Gigi", 
 		"Goob", 
-		"Rodger", 
-		"Scraps", 
-		"Teagan", 
-		"Tisha", 
+		"Scraps",
 	},
 	animations = {
 		Astro = {
