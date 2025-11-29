@@ -1320,7 +1320,6 @@ return {
 			"take your time, ill be waiting.",
 			"this is peak gameplay over here.",
 			"how are ya? hows it goin?",
-			"pressing J will do something.",
 			"having a good time? no? aw, how unfortunate.",
 			"having a good time? yeah? good for you.",
 			"this is getting boring. im just waiting for something interesting and noteworthy to happen.",
@@ -1642,7 +1641,6 @@ return {
 			"Hello! Hows your day today?",
 		},
 		D = {
-			"The command prefix is \".\"!",
 			"This script has over 29K lines!",
 			"Click on a command and i can tell you what it does!",
 			"Hehe, Hi! Im Poppy! I was added in version 1.0.4 alongside this whole section!",
