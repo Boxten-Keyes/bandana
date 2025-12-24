@@ -1314,6 +1314,7 @@ return {
 			"that toy fish in Finn's head is named Barnaby Wilikers. pretty weird name for a toy fish, isnt it?",
 			"x39.x93.x19.x45.x19.x29.x00.x29.x49.x24.x19.x29.x84.x00.x18.x49.x00.x18.x37.x18.x00.x38.x12.x48.x58.x00.x45.x82.x00.x83.x00.x38.x58.x35.x18.x93.x00.x83.x19.x53.x83",
 			"there are icons near the top of this script's interface. tap / click on them to access the other sections of this script.",
+			"im sorry.",
 		},
 		c = {
 			"i find it weird that the anticheat just decides to give up when panic mode is on.",
@@ -1341,6 +1342,7 @@ return {
 			"that toy fish in Finn's head is named Barnaby Wilikers. pretty weird name for a toy fish, isnt it?",
 			"there are icons near the top of this script's interface. tap / click on them to access the other sections of this script.",
 			"isnt it weird that some Twisteds have an attribute named \"WebhookLogged\"? or maybe im just bugging.",
+			"im sorry.",
 		},
 		d = {
 			"alright, stay focused.",
