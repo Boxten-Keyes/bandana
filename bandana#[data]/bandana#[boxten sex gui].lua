@@ -160,7 +160,7 @@ return {
 			extracting = "rbxassetid://72425276030716",
 			ability = "rbxassetid://placeholder",
 			quirk1 = "rbxassetid://123797291224009",
-			quirk2 = "rbxassetid://placeholder",
+			quirk2 = "rbxassetid://113260134852958",
 			quirk3 = "rbxassetid://placeholder",
 
 			twisted_idle = "rbxassetid://92649757944698",
@@ -169,6 +169,8 @@ return {
 			twisted_ability = "rbxassetid://placeholder",
 			twisted_attacking = "rbxassetid://110457418675287",
 			twisted_lost_interest = "rbxassetid://139014858392831",
+			
+			store_sit = "rbxassetid://135757794031874"
 		},
 		Boxten = {
 			old_idle = "rbxassetid://16987798588",
@@ -549,7 +551,7 @@ return {
 			old_twisted_run = "rbxassetid://18239928544",
 			old_twisted_ability = "rbxassetid://placeholder",
 			old_twisted_attacking = "rbxassetid://18240123658",
-			
+
 			idle = "rbxassetid://114371645858993",
 			walk = "rbxassetid://82362067360374",
 			run = "rbxassetid://109438752615622",
