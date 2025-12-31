@@ -1693,10 +1693,9 @@ return {
 			"well, well, well. look who it is.",
 		},
 		K = {
-			"youre starting to piss me off, buddy. the [item] is RIGHT THERE.",
-			"looks like that [item] over there may be useful for your current condition. why dont you go pick it up?",
-			"are you blind? youre on [health] and the [item] is literally within item aura range.",
-			"well, well, well. look who it is.",
+			"youre starting to piss me off, buddy. the {item} is RIGHT THERE.",
+			"looks like that {item} over there may be useful for your current condition. why dont you go pick it up?",
+			"are you blind? youre on {health} and the {item} is literally within item aura range.",
 		},
 	},
 }
