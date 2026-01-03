@@ -1302,7 +1302,7 @@ return {
 			"join our Discord server to keep up with the updates.",
 			"did you know that Dandy's full name is Dandicus Dancifer?",
 			"did you know that Sprout's full name is Sprout Seedly?",
-			"did you know that Shelly's full name is Shelly Fossilian",
+			"did you know that Shelly's full name is Shelly Fossilian?",
 			"did you know that Astro's full name is Astro Novalite?",
 			"did you know that Vee's full name is Vee Version 1?",
 			"did you know that Pebble's full name is Pebble Dancifer Jr?",
